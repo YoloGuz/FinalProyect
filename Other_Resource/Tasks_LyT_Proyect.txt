@@ -1,0 +1,29 @@
+Done:
+
+* Menu
+
+SOLICITUD DE DATOS
+
+* Solicitud de datos Estudiante
+* Solicitud de datos Profesor
+* Solicitud de datos Centro
+
+BASE DE DATOS
+
+* Coneccion BD
+* Insertar datos Estudiante en BD
+* Insertar datos Profesor en BD
+* Insertar datos Centro en BD
+
+TABLAS
+
+* ESTUDIANTE Tabla creada
+* PROFESOR Tabla creada
+* CENTRO Tabla creada
+* TIPO DE PAGO Tabla creada
+* MES Tabla creada
+* ESTADO Tabla creada
+
+
+Missing  
+* Close Connection DB
